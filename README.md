@@ -37,4 +37,5 @@ Example: This example shows how to configure a MediaDisplay instance as a standa
 Check out the original article and ActionScript documentation at the links below. The ASDocs are also included in the repository.
 
 http://www.adobe.com/devnet/flash/articles/osmf-media-player.html
+
 http://download.macromedia.com/pub/developer/osmf/OSMFComponents_ASDoc/index.html
