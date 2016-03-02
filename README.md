@@ -5,7 +5,7 @@ The OSMF Media Player template is a Flash project comprised of a FLA file, an Ac
 
 This project was originally developed to support my video template articles on the Adobe Deverloper Connection. The original project is still available on the ADC at the links below. I'm posting them here as well so you can review and use the code.
 
-How to use the player:
+**How to use the player:**
 
 The MediaDisplay class instantiates the OSMF objects necessary to create a media player and wraps them in a component similar to the Flash FLVPlayback component. Use the MediaDisplay as a standalone media display area or combine it with the ControlBar component to add user interface controls.
 
@@ -32,7 +32,7 @@ Example: This example shows how to configure a MediaDisplay instance as a standa
         trace(event.name + ", time = " + event.time);
     }
   
-Further documentation:
+**Documentation:**
 
 http://www.adobe.com/devnet/flash/articles/osmf-media-player.html
 http://download.macromedia.com/pub/developer/osmf/OSMFComponents_ASDoc/index.html
