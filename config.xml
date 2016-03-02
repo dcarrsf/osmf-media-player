@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<media_playlist>
+	<media layout="serial">
+		<source>http://mediapm.edgesuite.net/osmf/content/test/manifest-files/dynamic_Streaming.f4m</source>
+	</media>
+</media_playlist>
