@@ -3,7 +3,7 @@ The OSMF Media Player wraps the OSMF framework inside of a component for Flash P
 
 The OSMF Media Player template is a Flash project comprised of a FLA file, an ActionScript code package, and a SWC library containing the Open Source Media Framework code. If desired, you can open the project in Adobe Flash Builder; however, Flash Builder and Flex Framework are not required to work with the files. 
 
-This project was originally developed to support my video template articles on the Adobe Deverloper Connection. The original project is still available on the ADC at the links below. I'm posting them here as well so you can review and use the code.
+This project was developed to support my video template articles on the Adobe Deverloper Connection. The original project is still available on the ADC at the links below.
 
 **How to use the player:**
 
