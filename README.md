@@ -11,8 +11,8 @@ The MediaDisplay class instantiates the OSMF objects necessary to create a media
 
 Example: This example shows how to configure a MediaDisplay instance as a standalone player.
 
-    import com.dancarrdesign.osmf.application.MediaDisplay;
-    import com.dancarrdesign.osmf.events.CuePointEvent;
+    import com.devnet.osmf.application.MediaDisplay;
+    import com.devnet.osmf.events.CuePointEvent;
             
     // Create player.
     var mediaDisplay:MediaDisplay = new MediaDisplay();
